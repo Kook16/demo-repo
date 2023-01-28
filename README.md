@@ -1,2 +1,5 @@
 # demo-repo
-Practice github
+clone repo
+commit
+push
+pull
